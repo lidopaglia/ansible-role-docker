@@ -1,0 +1,19 @@
+---
+dependencies: []
+
+galaxy_info:
+  role_name: docker
+  author: Lido Paglia
+  description: Install Docker on Linux.
+  license: MIT
+  min_ansible_version: 2.4
+  platforms:
+    - name: Debian
+      versions:
+        - bullseye
+  galaxy_tags:
+    - compose
+    - containers
+    - docker
+    - orchestration
+    - server
